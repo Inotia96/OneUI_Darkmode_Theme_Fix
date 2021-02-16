@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="photo_id_masking_value">1</integer>
+    <integer name="theme_attach_icon_scale_size">70</integer>
+    <integer name="theme_attach_icon_bg_range">2</integer>
+</resources>

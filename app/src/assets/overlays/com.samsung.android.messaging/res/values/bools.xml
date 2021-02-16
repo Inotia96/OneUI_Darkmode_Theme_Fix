@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="theme_status_bar_icon_color">true</bool>
+    <bool name="theme_about_navigation_bar_icon_color">true</bool>
+    <bool name="theme_navigation_bar_icon_color">true</bool>
+    <bool name="theme_navigation_bar_icon_color_2">true</bool>
+</resources>
