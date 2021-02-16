@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="sem_window_light_status_bar">false</bool>
+    <bool name="sem_window_light_navigation_bar">false</bool>
+    <bool name="theme_notification_icons_shadow_on">false</bool>
+</resources>
