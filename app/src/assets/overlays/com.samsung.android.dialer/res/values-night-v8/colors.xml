@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_circle_bg_color">#ff48799c</color>
+    <color name="default_caller_id_bg_color">#fffc8d6f</color>
+    <color name="default_caller_id_bg_color_1">#fff6c86a</color>
+    <color name="default_caller_id_bg_color_2">#ff4f7bff</color>
+    <color name="default_caller_id_bg_color_3">#ff31c674</color>
+</resources>
