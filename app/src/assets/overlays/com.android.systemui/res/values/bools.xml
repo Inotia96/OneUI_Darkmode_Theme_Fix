@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="theme_use_image_clock">false</bool>
+    <bool name="theme_use_clock_shadow">false</bool>
+    <bool name="theme_use_clock_shadow_black">false</bool>
+    <bool name="open_theme_nio_shadow">false</bool>
+    <bool name="open_theme_nio_shadow_black">false</bool>
+    <bool name="theme_use_pattern_normal_image">true</bool>
+    <bool name="theme_use_pattern_success_image">true</bool>
+    <bool name="theme_use_pattern_failed_image">true</bool>
+    <bool name="theme_use_pattern_normal_image_black">true</bool>
+    <bool name="theme_use_pattern_success_image_black">true</bool>
+    <bool name="theme_use_pattern_failed_image_black">true</bool>
+    <bool name="theme_use_image_pinlock">false</bool>
+    <bool name="theme_use_image_pinlock_for_black">false</bool>
+    <bool name="theme_helptext_use_shadow">false</bool>
+    <bool name="theme_helptext_use_shadow_black">false</bool>
+</resources>

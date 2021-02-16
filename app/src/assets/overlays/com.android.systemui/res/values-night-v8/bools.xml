@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="theme_use_clock_shadow">false</bool>
+    <bool name="theme_use_clock_shadow_black">false</bool>
+    <bool name="open_theme_nio_shadow">false</bool>
+    <bool name="open_theme_nio_shadow_black">false</bool>
+    <bool name="theme_helptext_use_shadow">false</bool>
+    <bool name="theme_helptext_use_shadow_black">false</bool>
+</resources>

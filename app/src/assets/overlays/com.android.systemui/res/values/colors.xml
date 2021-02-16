@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="open_theme_notification_title_text_color">#ff252525</color>
+    <color name="open_theme_notification_content_text_color">#bf252525</color>
+    <color name="open_theme_notification_time_text_color">#cc252525</color>
+    <color name="open_theme_notification_reply_icon_color">#cc252525</color>
+    <color name="open_theme_notification_hybrid_title_text_color">#ff252525</color>
+    <color name="open_theme_notification_shelf_button_text_color">#ff000000</color>
+    <color name="open_theme_notification_gear_icon_color">#ff000000</color>
+    <color name="open_theme_notification_smart_reply_stroke_color">#cc252525</color>
+    <color name="open_theme_notification_gut_info_title_text_color">#ff000000</color>
+    <color name="open_theme_notification_gut_info_content_text_color">#ff000000</color>
+    <color name="open_theme_notification_gut_info_action_button_text_color">#cc252525</color>
+    <color name="open_theme_notification_gut_info_action_button_divider_color">#7f000000</color>
+    <color name="open_theme_notification_gut_snooze_radio_button_icon_color">#ff000000</color>
+    <color name="open_theme_notification_gut_snooze_radio_button_text_color">#cc252525</color>
+    <color name="open_theme_nio_shadow_color">#66000000</color>
+    <color name="open_theme_nio_shadow_color_black">#66000000</color>
+</resources>
