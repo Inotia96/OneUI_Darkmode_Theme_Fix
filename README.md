@@ -11,6 +11,6 @@ Synergy 앱의 다크모드 테마 오류를 수정하는 Substratum 테마.
 
 
 
-Substratum Template의 소스 기반으로 제작되었습니다.
+#### 본 프로젝트는 Substratum Template의 소스 기반으로 제작되었습니다.
 
 https://github.com/substratum/template
